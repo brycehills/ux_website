@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development settings
+.env
+/.vscode/
+
+# Database
+db.sqlite3
+
+# Static files
+/static/
+
+# Media files
+/media/
+
+# Compiled Python bytecode
+*.pyc
+*.pyo
+__pycache__/
+
+# Logs and databases
+*.log
+*.sql
+
+# Temporary files
+*.swp
+*.swo
+*.bak
+
+# Environment variables file
+.env
+
+# Visual Studio Code settings
+.vscode/
+
+# macOS Finder
+.DS_Store
+
+# Editor-specific files
+*.sublime-project
+*.sublime-workspace
