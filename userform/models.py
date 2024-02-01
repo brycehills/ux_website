@@ -10,5 +10,3 @@ class UserInfo(models.Model):
     username = models.CharField(max_length=50)
 
 #table for company info tbd
-    
-#step 4 current
