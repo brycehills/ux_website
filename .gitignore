@@ -42,3 +42,9 @@ __pycache__/
 # Editor-specific files
 *.sublime-project
 *.sublime-workspace
+
+# React
+node_modules/
+build/
+.DS_Store
+.env
